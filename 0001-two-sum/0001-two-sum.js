@@ -5,14 +5,13 @@
  */
 var twoSum = function(nums, target) {
     let sumMap = new Map();
-    let array = [];
+
     for(let i=0;i<nums.length;i++){
+
         let secondNum = target-nums[i];
-        if(sumMap.has(secondNum)) {
-            array.push(i);
-            array.push(sumMap.get(secondNum));
-        }
+
+        if(sumMap.has(secondNum)) return [sumMap.get(secondNum),i];
         sumMap.set(nums[i],i)    
     }
-    return array;
+    return []
 };
