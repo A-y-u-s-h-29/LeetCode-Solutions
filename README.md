@@ -16,5 +16,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0620-not-boring-movies](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/1193-monthly-transactions-i) |
 <!---LeetCode Topics End-->
