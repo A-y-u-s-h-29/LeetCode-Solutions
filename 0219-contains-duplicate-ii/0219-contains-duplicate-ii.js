@@ -8,7 +8,7 @@ var containsNearbyDuplicate = function(nums, k) {
     for(let i=0;i<nums.length;i++){
         let num = nums[i]
         if(duplicateMap.has(num)){
-            if(Math.abs(duplicateMap.get(num)-i)<=k) return true;
+            if((i-duplicateMap.get(num))<=k) return true;
         }    
         duplicateMap.set(num,i)
     }
