@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Database
 |  |
 | ------- |
@@ -20,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/1280-students-and-examinations) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
