@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Database
 |  |
 | ------- |
@@ -45,4 +46,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
