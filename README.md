@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0128-longest-consecutive-sequence](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/A-y-u-s-h-29/LeetCode-Solutions/tree/master/0228-summary-ranges) |
