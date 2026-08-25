@@ -1,6 +1,5 @@
 # Write your MySQL query statement below
-SELECT s.user_id,
-IFNULL(ROUND(COUNT(
+SELECT s.user_id,IFNULL(ROUND(COUNT(
     CASE
     WHEN c.action = 'confirmed' THEN 1
     END
